@@ -8,7 +8,7 @@ In my free time, I enjoy running, skiing, and listening to music. My hottest tak
 ### Work Experience
 <img src="mclogo-c823e495c5cf455c89ddfb0e17fc7978.jpg" alt="Mastercard Logo" width="150"/>
 
-* Summer 2023: I returned for a summer internship at [**Mastercard**](https://www.mastercard.ca/en-ca.html) in Vancouver with the Data Science Services team. I enjoyed working with an amazing team on projects in the following areas:
+* <ins>Summer 2023</ins>: I returned for a summer internship at [**Mastercard**](https://www.mastercard.ca/en-ca.html) in Vancouver with the Data Science Services team. I enjoyed working with an amazing team on projects in the following areas:
 
   * Both Monolithic and Microservice Architectures
   * REST APIs
@@ -16,7 +16,7 @@ In my free time, I enjoy running, skiing, and listening to music. My hottest tak
   * Automated Release Process
   * API Smoke Tests via Jenkins
 
-* May-Dec 2022: I was fortunate to land a 7 month co-op at [**Mastercard**](https://www.mastercard.ca/en-ca.html) in Vancouver on the Decision Management Platform. During this mostly remote experience, I gained skills in the following areas:
+* <ins>May-Dec 2022</ins>: I was fortunate to land a 7 month co-op at [**Mastercard**](https://www.mastercard.ca/en-ca.html) in Vancouver on the Decision Management Platform. During this mostly remote experience, I gained skills in the following areas:
 
   * Maven Framework
   * Oracle SQL
@@ -27,7 +27,7 @@ In my free time, I enjoy running, skiing, and listening to music. My hottest tak
 
 <img src="R.jpg" alt="SSI Logo" width="150"/>
 
-* Summer 2020 and Summer 2021: I worked for the [**Space Science Institute**](https://www.spacescience.org/index.php), starting from scratch to build a database and a web-based query interface for data from the NASA Mars Reconnaisance Orbiter. I learned valuable skills in the following areas:
+* <ins>Summer 2020 and Summer 2021</ins>: I worked for the [**Space Science Institute**](https://www.spacescience.org/index.php), starting from scratch to build a database and a web-based query interface for data from the NASA Mars Reconnaisance Orbiter. I learned valuable skills in the following areas:
 
   * PHP
   * HTML / CSS
@@ -35,7 +35,7 @@ In my free time, I enjoy running, skiing, and listening to music. My hottest tak
   * Python
   * Shell scripting
 
-* Summer 2019: I worked for [**Code the Way**](https://www.codetheway.org/), where myself and my high school peers worked to build a full-stack application for a local nonprofit. This experience gave me an intro to the following skills:
+* <ins>Summer 2019</ins>: I worked for [**Code the Way**](https://www.codetheway.org/), where myself and my high school peers worked to build a full-stack application for a local nonprofit. This experience gave me an intro to the following skills:
 
   * Full-stack Development in C#
   * Agile Methodologies
